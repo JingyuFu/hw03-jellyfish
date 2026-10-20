@@ -1,0 +1,14 @@
+# The assignment requires Houdini files to be submitted to Canvas, not GitHub.
+*.hip
+*.hipnc
+*.hiplc
+*.hip~
+*.hipnc~
+*.hiplc~
+*.bgeo
+*.bgeo.sc
+*.sim
+cache/
+work/
+scenes/backup/
+__pycache__/
